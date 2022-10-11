@@ -1,0 +1,12 @@
+body {
+    font-weight: bold;
+}
+
+.button-row button {
+    background-color: skyblue;
+    color: brown;
+    border: none;
+    padding: 7px;
+    border-radius: 5px;
+    cursor: pointer;
+}
